@@ -3,9 +3,6 @@
 <p align="center">
   <img align="center" alt="Coding" width="400" src="https://i.pinimg.com/originals/81/17/8b/81178b47a8598f0c81c4799f2cdd4057.gif">
 </p>
-<h2 align="center">About Me</h2>
-<p align="center">
--  I’m currently learning Javascript and it's frameworks
 
 </p>
 <h3 align="center">Languages and Tools:</h3>
