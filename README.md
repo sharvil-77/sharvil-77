@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Sharvil</h1>
+<h2 align="center">Hi, I'm Sharvil</h2>
 
 </p>
 <h3 align="center">Languages and Tools:</h3>
